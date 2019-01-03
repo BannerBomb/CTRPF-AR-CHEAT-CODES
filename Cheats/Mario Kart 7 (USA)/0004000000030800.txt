@@ -1,4 +1,4 @@
-[Manual Mode, Game v1.1 USA (by BannerBomb)]
+[Manual Mode, Game v1.1 USA (by BannerBomb)[Disables drifting and enables jumping as bullet bill]]
 D3000000 14000000
 007910B0 00000000
 00791258 00000000
